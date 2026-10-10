@@ -1,4 +1,4 @@
-local mm2items = {
+return {
 	{ item = "Traveler's Gun", val = 4500 },
 	{ item = "Evergun", val = 3450 },
 	{ item = "Evergreen", val = 2700 },
