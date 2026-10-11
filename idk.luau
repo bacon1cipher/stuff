@@ -19,7 +19,7 @@ return {
 	{ item = "Evergun", val = 3450 },
 	{ item = "Evergreen", val = 2700 },
 	{ item = "Constellation", val = 2550 },
-	{ item = "Vampire's Gun", val = 1900 },
+	{ item = "Vampire's Gun", val = 1900, blacklisted = true },
 	{ item = "Turkey", val = 1800 },
 	{ item = "Alienbeam", val = 1775 },
 	{ item = "Darksword", val = 1770 },
