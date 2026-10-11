@@ -90,7 +90,7 @@ return {
 	{ item = "Deathshard", val = 13 },
 	{ item = "Old Glory", val = 15 },
 	{ item = "Blaster", val = 17 },
-	{ item = "Luger", val = 18 },
+	{ item = "Luger", val = 16 },
 	{ item = "Plasmablade", val = 15 },
 	{ item = "Virtual", val = 15 },
 	{ item = "Slasher", val = 15 },
