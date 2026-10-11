@@ -1,4 +1,6 @@
 return {
+	{ item = "Corrupt", val = 325 }
+
 	{ item = "Gingerscope", val = 15250 },
 	{ item = "Traveler's Axe", val = 7000 },
 	{ item = "Celestial", val = 2150 },
