@@ -68,7 +68,7 @@ return {
 	{ item = "Elderwood Revolver", val = 31 },
 	{ item = "Darkbringer", val = 33 },
 	{ item = "Iceblaster", val = 33 },
-	{ item = "Sugar", val = 30 },
+	{ item = "Sugar", val = 33 },
 	{ item = "Makeshift", val = 30 },
 	{ item = "Lightbringer", val = 30 },
 	{ item = "Elderwood Blade", val = 28 },
