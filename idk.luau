@@ -1,4 +1,18 @@
 return {
+	{ item = "Gingerscope", val = 15250 },
+	{ item = "Traveler's Axe", val = 7000 },
+	{ item = "Celestial", val = 2150 },
+	{ item = "Vampire's Axe", val = 1500 },
+	{ item = "Harvester", val = 255 },
+	{ item = "Icepiercer", val = 165 },
+	{ item = "Icebreaker", val = 65 },
+	{ item = "Batwing", val = 42 },
+	{ item = "Elderwood Scythe", val = 38 },
+	{ item = "Swirly Axe", val = 38 },
+	{ item = "Hallowscythe", val = 29 },
+	{ item = "Logchopper", val = 18 },
+	{ item = "Icewing", val = 12 },
+
 	{ item = "Traveler's Gun", val = 4500 },
 	{ item = "Evergun", val = 3450 },
 	{ item = "Evergreen", val = 2700 },
