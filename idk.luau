@@ -45,7 +45,7 @@ return {
 	{ item = "Ocean", val = 230 },
 	{ item = "Waves", val = 230 },
 	{ item = "Flowerwood Gun", val = 240 },
-	{ item = "Flowerwood Knife", val = 235 },
+	{ item = "Flowerwood", val = 235 },
 	{ item = "Snow Dagger", val = 175 },
 	{ item = "Treat", val = 150 },
 	{ item = "Icecream", val = 145 },
