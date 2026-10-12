@@ -23,7 +23,7 @@ return {
 	{ item = "Turkey", val = 1800 },
 	{ item = "Alienbeam", val = 2000 },
 	{ item = "Darksword", val = 1770 },
-	{ item = "Raygun", val = 2000 },
+	{ item = "Raygun", val = 2100 },
 	{ item = "Darkshot", val = 1795 },
 	{ item = "Sakura", val = 1250, blacklisted = true },
 	{ item = "Blossom", val = 1250, blacklisted = true },
