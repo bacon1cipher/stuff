@@ -61,7 +61,7 @@ return {
 	{ item = "Pearl", val = 70 },
 	{ item = "Heartblade", val = 65 },
 	{ item = "Ornament", val = 65 },
-	{ item = "Red Luger", val = 35 },
+	{ item = "Red Luger", val = 37 },
 	{ item = "Phantom", val = 35 },
 	{ item = "Spectre", val = 35 },
 	{ item = "Candleflame", val = 33 },
