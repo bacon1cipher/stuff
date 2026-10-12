@@ -13,7 +13,7 @@ return {
 	{ item = "Swirly Axe", val = 39 },
 	{ item = "Hallowscythe", val = 29 },
 	{ item = "Logchopper", val = 17 },
-	{ item = "Icewing", val = 10, blacklisted = true },
+	{ item = "Icewing", val = 12 },
 
 	{ item = "Traveler's Gun", val = 4500 },
 	{ item = "Evergun", val = 3450 },
