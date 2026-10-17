@@ -9,7 +9,7 @@ return {
 	{ item = "Icepiercer", val = 165 },
 	{ item = "Icebreaker", val = 65 },
 	{ item = "Batwing", val = 42 },
-	{ item = "Elderwood Scythe", val = 38 },
+	{ item = "Elderwood Scythe", val = 36 },
 	{ item = "Swirly Axe", val = 39 },
 	{ item = "Hallowscythe", val = 27 },
 	{ item = "Logchopper", val = 17 },
