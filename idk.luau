@@ -72,7 +72,7 @@ return {
 	{ item = "Makeshift", val = 30 },
 	{ item = "Lightbringer", val = 30 },
 	{ item = "Elderwood Blade", val = 28 },
-	{ item = "Green Luger", val = 25 },
+	{ item = "Green Luger", val = 22 },
 	{ item = "Amerilaser", val = 22 },
 	{ item = "Laser", val = 23 },
 	{ item = "Hallowgun", val = 20 },
